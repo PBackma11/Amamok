@@ -1,0 +1,89 @@
+.flexbox-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+    
+
+.flexbox-item{
+    width: 200px;
+    margin: 10px;
+    
+    
+}
+
+.flexbox-item-1{
+    width: 50px;
+    background-color: lightgray;
+    border: 2px;
+    
+}
+
+.flexbox-item-2{         
+    display:flex;
+    
+    font-size: medium;
+    font-weight: lighter;
+    width:170px;
+    border: 1px solid gray;
+    border-color: gray;
+    
+}
+
+.flexbox-item-3{
+    height: auto;
+    width: auto;
+    border: 1px solid gray;
+    font-size:x-large;
+    
+    
+        
+}
+
+.email{
+    font-size: xx-small;
+    padding-left: 5%;
+    font-weight: lighter;
+}
+.password{
+    font-size: xx-small;
+    padding-left: 10%;
+    margin-bottom: 0%;
+}
+
+.need {
+    font-size:small;
+    padding-left: 10%;
+    margin-bottom: 10%;
+}
+
+.flexbox-item-4{
+    display:flex;
+    min-height: 2px;
+    font-size: medium;
+    border: 1px solid gray;
+    width:170px;
+}
+
+.flexbox-item-5{
+    display:flex;
+    font-size: medium;
+    min-height: 2px;
+    width:170px;
+    border: 1px solid gray;
+    margin-top: 10%;
+    background-color:goldenrod;
+    justify-content: center;
+}
+
+.flexbox-item-6{
+    display:flex;
+    border-width: 10px;
+    border: darkgrey;
+    background-color:lightgray;
+    font-size: smaller;
+    justify-content: center;
+    
+}
